@@ -1,4 +1,4 @@
-Spring Boot application with a REST controller, which expose a Swagger API catalog.
+# Spring Boot application with a REST controller, which expose a Swagger API catalog.
 Data is persisted on H2 DB using JPA.
 
 The application exposes the following APIs:

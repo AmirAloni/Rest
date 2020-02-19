@@ -1,7 +1,7 @@
 ### Spring Boot application with a REST controller, which expose a Swagger API catalog.
 Data is persisted on H2 DB using JPA.
 
-The application exposes the following APIs:
+The application exposes the following APIs: (http://localhost:8080/)
 
 1. List of the inventory items list                    - (GET /api/items)
 

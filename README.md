@@ -15,3 +15,4 @@ The application exposes the following APIs: (http://localhost:8080/)
 
 6. Delete an item from stock                           - (DELETE /api/items/{item-number})
 
+Credentials for H2-Console are in 'Rest/src/main/resources/application.properties'
